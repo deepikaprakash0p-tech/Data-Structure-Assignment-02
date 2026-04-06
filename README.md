@@ -1,2 +1,5 @@
-# Data-Structure-Assignment-02
-Assignment_02
+NAME :- P.Harsha Deepika
+
+PRN :-  250200481   CDS/2025/1145
+
+ASSIGNMENT :- DSA 02
